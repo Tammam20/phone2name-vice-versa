@@ -12,17 +12,3 @@ if results.isdigit() == False:
 
 elif results.isdigit() == True:
     print(name + " is the name.")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
